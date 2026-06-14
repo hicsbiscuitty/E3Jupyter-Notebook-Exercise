@@ -11,6 +11,18 @@
 **1. 选择排序算法实现**
 
 **文件：** `Simple_Python_Procedure.ipynb`
+def test_interactive():
+    user_input = input("请输入一组数字（用空格分隔，例如：5 2 9 1）：")
+    
+    try:
+        data = [int(x) for x in user_input.split()]
+        print(f"你输入的数据: {data}")
+        result = selection_sort(data)
+        print(f"排序后的结果: {result}")
+    except ValueError:
+        print("错误：请输入有效的整数数字！")
+
+test_interactive()
 
 ---
 
