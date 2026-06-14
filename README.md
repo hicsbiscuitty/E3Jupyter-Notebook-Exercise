@@ -8,9 +8,7 @@
 
 ---
 
-**1. 选择排序算法实现**
-
-**文件：** `Simple_Python_Procedure.ipynb`
+**1. 选择排序算法实现**`Simple_Python_Procedure.ipynb`
 
 def test_interactive():
     user_input = input("请输入一组数字（用空格分隔，例如：5 2 9 1）：")
@@ -27,9 +25,7 @@ test_interactive()
 
 ---
 
-**2. 财富世界500强数据分析**
-
-**文件：** `Fortune500_Analyse.ipynb`
+**2. 财富世界500强数据分析** `Fortune500_Analyse.ipynb`
 
 1. 从 https://www.jianguoyun.com/p/DabvAJEQ7JmuCRjI1LwEIAA 下载数据集文件 `fortune500.csv`
 
