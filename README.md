@@ -1,4 +1,11 @@
 # E3 Jupyter-Notebook-Exercise
+## 文件说明
+
+| 文件名 | 说明 |
+|---------|---------|
+| [Simple_Python_Procedure.ipynb](./Simple_Python_Procedure.ipynb) | 选择排序算法实现 |
+| [Fortune500_Analysis.ipynb](./Fortune500_Analysis.ipynb) | 财富世界500强数据分析 |
+| [fortune500.csv](./fortune500.csv) | Fortune500原始数据集 |
 
 **实验环境准备**
 
@@ -245,3 +252,4 @@ jupyter nbextensions_configurator enable --user
 4. 在列表中找到并勾选 **Hinterland** 插件。
 
 5. 配置完成后，在编辑模式下，代码补全提示将在输入或按下 **Tab** 键时自动触发。
+![Hinterland自动补全](./扩展补全代码.png)
